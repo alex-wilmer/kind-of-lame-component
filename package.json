@@ -1,0 +1,23 @@
+{
+  "name": "kind-of-lame-component",
+  "version": "0.1.0",
+  "description": "A kind of lame react component. 👍",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alex-wilmer/kind-of-lame-component.git"
+  },
+  "keywords": [
+    "react",
+    "component"
+  ],
+  "author": "Alex Wilmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex-wilmer/kind-of-lame-component/issues"
+  },
+  "homepage": "https://github.com/alex-wilmer/kind-of-lame-component#readme"
+}
